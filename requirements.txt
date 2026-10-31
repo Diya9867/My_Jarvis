@@ -1,0 +1,9 @@
+customtkinter
+SpeechRecognition
+pyttsx3
+pywhatkit
+pywin32
+pyautogui
+pyperclip
+requests
+pyaudio
