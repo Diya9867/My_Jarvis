@@ -69,7 +69,7 @@ ollama pull llama3.2:1b
 **5. Run JARVIS**
 
 ```bash
-python jarvis.py
+python jarvis_final.py
 ```
 
 > **Requirements:** Windows 10/11, Python 3.11, a working microphone, and Ollama.
